@@ -92,7 +92,7 @@ div.voters-header {
     width: 100%;
     padding-inline: calc(100% / 25);
     padding-block: 20px;
-    background: black;
+    background: rgb(1, 67, 103);
     color: white;
     z-index: 999;
     display: flex;
