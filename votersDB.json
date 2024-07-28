@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "img": "./assets/avatar.png",
+        "name": "Saleh",
+        "cnic": "7532637376255",
+        "voteCasted": true,
+        "voteAccepted": true
+    },
+    {
+        "id": "2",
+        "img": "./assets/avatar.png",
+        "name": "Hayat",
+        "cnic": "7532637376256",
+        "voteCasted": false,
+        "voteAccepted": false
+    },
+    {
+        "id": "3",
+        "img": "./assets/avatar.png",
+        "name": "Faizan",
+        "cnic": "7532637376257",
+        "voteCasted": true,
+        "voteAccepted": false
+    },
+    {
+        "id": "4",
+        "img": "./assets/avatar.png",
+        "name": "Aslam",
+        "cnic": "7532637376258",
+        "voteCasted": false,
+        "voteAccepted": false
+    },
+    {
+        "id": "5",
+        "img": "./assets/avatar.png",
+        "name": "khan",
+        "cnic": "7532637376259",
+        "voteCasted": true,
+        "voteAccepted": true
+    },
+    {
+        "id": "6",
+        "img": "./assets/avatar.png",
+        "name": "jhon",
+        "cnic": "7532637376290",
+        "voteCasted": false,
+        "voteAccepted": false
+    },
+    {
+        "id": "7",
+        "img": "./assets/avatar.png",
+        "name": "Nadeem",
+        "cnic": "7532637376261",
+        "voteCasted": true,
+        "voteAccepted": true
+    },
+    {
+        "id": "8",
+        "img": "./assets/avatar.png",
+        "name": "Muhammad",
+        "cnic": "7859843788955",
+        "voteCasted": true,
+        "voteAccepted": false
+    },
+    {
+        "id": "9",
+        "img": "./assets/avatar.png",
+        "name": "Ali",
+        "cnic": "7532634400945",
+        "voteCasted": true,
+        "voteAccepted": true
+    },
+    {
+        "id": "10",
+        "img": "./assets/avatar.png",
+        "name": "Asim",
+        "cnic": "753254894258",
+        "voteCasted": true,
+        "voteAccepted": false
+    },
+    {
+        "id": "11",
+        "img": "./assets/avatar.png",
+        "name": "Saleem",
+        "cnic": "7532598946258",
+        "voteCasted": true,
+        "voteAccepted": false
+    },
+    {
+        "id": "12",
+        "img": "./assets/avatar.png",
+        "name": "saqib",
+        "cnic": "7532645946258",
+        "voteCasted": true,
+        "voteAccepted": true
+    },
+    {
+        "id": "13",
+        "img": "./assets/avatar.png",
+        "name": "Asif",
+        "cnic": "7532634393258",
+        "voteCasted": true,
+        "voteAccepted": true
+    },
+    {
+        "id": "14",
+        "img": "./assets/avatar.png",
+        "name": "akhtar",
+        "cnic": "75326347836258",
+        "voteCasted": true,
+        "voteAccepted": false
+    },
+    {
+        "id": "15",
+        "img": "./assets/avatar.png",
+        "name": "chris",
+        "cnic": "7532637376579",
+        "voteCasted": true,
+        "voteAccepted": true
+    }
+]

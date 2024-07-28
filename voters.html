@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>voters</title>
+    <link rel="stylesheet" href="./voters.css">
+</head>
+<body>
+    <div class="container">
+        <div class="voters-header">
+            <span><a href="https://ecgb.gov.pk/" target="_blank">ECGB</a> / Voters List</span>
+            <div class="filters-container">
+                <label for="filter-voted">
+                    Participated
+                    <input type="checkbox" name="filter-voted" id="filter-voted" class="filter-voted">  
+                </label>
+                <label for="filter-accepted">
+                    Accepted
+                    <input type="checkbox" name="filter-accepted" id="filter-accepted" class="filter-accepted">  
+                </label>
+                <div class="vote-count-container">
+                    <span class="vote-count-label">Vote Count : </span>
+                    <span class="vote-count-value">0</span>
+                </div>
+            </div>
+            <input class="search" type="text" placeholder="Search voters name/cnic..">
+        </div>
+        <div class="voters-list" id="voters-list">
+        </div>
+    </div>
+
+
+    <script src="./voters.js"></script>
+</body>
+</html>
