@@ -118,5 +118,13 @@
         "cnic": "7532637376579",
         "voteCasted": true,
         "voteAccepted": true
+    },
+    {
+        "id": "16",
+        "img": "./assets/avatar.png",
+        "name": "Tauha Rizvi",
+        "cnic": "753263737657f",
+        "voteCasted": false,
+        "voteAccepted": false
     }
 ]
